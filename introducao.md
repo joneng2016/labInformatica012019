@@ -67,8 +67,8 @@
 	<li>08/03 -> Conceitos da Computação (Ferramentas) </li>
 	<li>15/03 -> Sistema Operacional Window - Conceitos Gerais (para que serve, quais S.Os existem, conceitos sobre navegadores, conceitos de organização de pastas, buscas)</li>
 	<li>22/03 -> WORD - Conceitos Gerais</li>
-	<li>29/03 -> WORD - Formatacação de um Currículo </li>
-	<li>05/04 -> WORD - Formatacação ABNT (criação de índice, importação de figura, criação de gráfico)</li>
+	<li>29/03 -> WORD - Formatação de um Currículo </li>
+	<li>05/04 -> WORD - Formatação ABNT (criação de índice, importação de figura, criação de gráfico)</li>
 	<li>12/04 -> Revisão </li>
 	<li>26/04 -> PROVA 1 -> Será dado um texto onde os alunos terão de formatar segundo uma dada especificação.</li>
 	<li>03/05 -> EXCEL - Conceitos Básicos </li>

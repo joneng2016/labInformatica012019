@@ -1,6 +1,5 @@
 <h3>Introdução ao Conteúdo Programático da Disciplina</h3>
 
-<h4>Jona
 <h4>Aula Introdutória</h4>
 <h5>Sobre o Professor</h5>
 <ul>
